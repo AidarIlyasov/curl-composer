@@ -1,7 +1,8 @@
 {
     "name": "ilyasov/curl-parser",
     "description": "curl package for composer",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Aidar Ilyasov",
