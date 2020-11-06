@@ -1,8 +1,9 @@
 <?php
 
+namespace Curl;
+
 class Curl
 {
-    
     private $ch = null;
     private $response = null;
 
